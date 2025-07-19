@@ -1,4 +1,4 @@
---! Last updated 2025-07-19
+--f
 [cite_start]repeat wait() until game.Loaded and game:GetService'Players'.LocalPlayer [cite: 1]
 [cite_start]local Version = '1.82' [cite: 1]
 [cite_start]local plrs = game:GetService'Players' [cite: 1]
